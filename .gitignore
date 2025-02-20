@@ -1,0 +1,10 @@
+# add node_modules to .gitignore
+node_modules
+
+
+.DS_Store
+.gitignore
+
+
+
+
