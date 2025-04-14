@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.7",
+    "dotenv": "^16.5.0",
     "nes.css": "^2.2.1"
   }
 }
